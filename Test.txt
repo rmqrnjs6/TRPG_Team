@@ -4,4 +4,8 @@
 3.d sedsed
 4. testtt
 
+<<<<<<< HEAD
 5.dsdw
+=======
+5. tetete
+>>>>>>> ffdb6a321dbb27cc32087356455941271fb4c432
